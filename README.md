@@ -16,3 +16,10 @@ On the chip locaton of Die, core and Pad
 ![core](https://user-images.githubusercontent.com/92746096/137956189-c4f03c17-ef3f-47d6-8854-5c17974694b4.jpeg)
 
 Difference between macros and IP's![macros](https://user-images.githubusercontent.com/92746096/137956869-d5a2f62e-2a40-4ae4-9efb-3e224a09725b.jpeg)
+
+
+RISC-V based SoC
+![RISC-V basd SOC](https://user-images.githubusercontent.com/92746096/137957462-0ed1f870-2812-408d-b21b-5fa1502bd84d.jpeg)
+
+
+Final look of a Chip![chiplook](https://user-images.githubusercontent.com/92746096/137957858-d2929fbc-f47f-4a78-a26a-05809bab09c7.jpeg)
